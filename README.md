@@ -1,0 +1,1 @@
+for this cli i get idea from this [site](https://roadmap.sh/projects/number-guessing-game)
